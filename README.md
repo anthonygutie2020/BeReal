@@ -1,3 +1,4 @@
 Name:    Anthony Gutierrez
 Znumber: Z23570761
-https://github.com/anthonygutie2020/BeReal/blob/main/BeReal1.gif
+
+![BEREAL12](https://github.com/user-attachments/assets/bb91230f-4dcc-4828-beeb-8f1189926ead)
